@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+    body {
+      /* max-width: 616px;
+      margin-inline: auto   ; */
+      main.container {
+          max-width: 616px;
+          
+        
+        .first-section {
+          h1 {
+            /* margin: 40px; */
+            margin-bottom: 24px;
+            /* max-width: 536px; */
+            /* height: 40px; */
+            /* text-align: center; */
+          }
+        
+        }
+       
+      }
+    }
+}   

@@ -1,0 +1,50 @@
+@media (max-width: 375px) {
+  img {
+    /* position: relative; */
+    /* top: -40px;
+        left:-40px; */
+    /* width: 375px; */
+    /* height: 171px; */
+    display: none;
+  }
+  body {
+    padding: 0;
+  }
+
+  main {
+    /* padding-top: 211px; */
+    background-image: url(../assets/images/image-omelette.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 211px 32px 32px 32px;
+  }
+  .first-section {
+    h1 {
+      font-size: 36px;
+      width: 311px;
+    }
+    p {
+      width: 311px;
+    }
+  }
+  .second {
+    width: 311px;
+    height: 196px;
+  }
+  .third {
+    width: 311px;
+  }
+  .fourth {
+    width: 311px;
+    height: 668px;
+    ol {
+      li {
+        padding-bottom: 8px;
+      }
+    }
+  }
+  .fifth{
+    width: 311px;
+    height: 292px;
+  }
+}
